@@ -1,7 +1,7 @@
 # Write your code here!
 
-describe game_hash do
-  hashketball = {
+def game_hash
+  {
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
